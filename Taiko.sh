@@ -265,7 +265,7 @@ docker compose up taiko_client_proposer -d
 # 主菜单
 function main_menu() {
     clear
-    echo "脚本以及教程由Dream 小梦编写，免费开源，请勿相信收费"
+    echo "脚本以及教程由Dream 大赌哥编写，免费开源，请勿相信收费"
     echo "================================================================"
     echo "微信：Dreamkingzz021201"
     echo "请选择要执行的操作:"
